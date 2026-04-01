@@ -4,19 +4,19 @@ Welcome to **Wootique**, where we craft **premium handcrafted wooden furniture**
 We specialize in **solid wood dining tables**, **epoxy resin tables**, **coffee tables**, **beds**, **wardrobes**, and **home décor**.
 
 ## 🛋️ Explore Our Collections
-- [Dining Tables](https://wootique.in/style/dining-table/)
-- [Coffee Tables](https://wootique.in/style/custom-coffee-table/)
+- [Dining Tables](https://wootique.in/catalog/dining-table/)
+- [Coffee Tables](https://wootique.in/catalog/coffee-table/)
 - [Epoxy Resin Tables](https://wootique.in/style/epoxy-resin-table/)
-- [Beds](https://wootique.in/style/beds/)
-- [Wardrobes](https://wootique.in/style/wardrobe/)
-- [Home Décor](https://wootique.in/collection/home-decor/)
+- [Beds](https://wootique.in/catalog/beds/)
+- [Wardrobes](https://wootique.in/catalog/cabinet/)
+- [Home Décor](https://wootique.in/collection/home-decor-furniture/)
 
 ---
 
 ## 🔗 Useful Links
 - **Website:** [https://wootique.in](https://wootique.in)
 - **Contact Us:** [https://wootique.in/contact-us/](https://wootique.in/contact-us/)
-- **Instagram:** [https://instagram.com/wootique_furniture](https://instagram.com/wootique_furniture)
+- **Instagram:** [https://instagram.com/wootique_furniture](https://instagram.com/wootique.in)
 - **Pinterest:** [https://pinterest.com/wootique_furniture](https://pinterest.com/wootique_furniture)
 
 ---
